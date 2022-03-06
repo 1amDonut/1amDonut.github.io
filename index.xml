@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>賈賈&#39;s Blog</title>
+    <link>https://1amdonut.github.io/</link>
+    <description>Recent content on 賈賈&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://1amdonut.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>透過安裝vagrant及virtualBox在macos成功啟動kubeadm</title>
+      <link>https://1amdonut.github.io/post/2022-03-06-run-k8s-macos/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://1amdonut.github.io/post/2022-03-06-run-k8s-macos/</guid>
+      <description>最近在學習k8s需要用虛擬化平台，我選擇用virtualBox平台，然後可以透過vagrant 來管理這些安裝在mac中的虛擬機。過程中遇到一</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://1amdonut.github.io/search/placeholder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://1amdonut.github.io/search/placeholder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://1amdonut.github.io/top/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://1amdonut.github.io/top/about/</guid>
+      <description>Huabing Zhao is an ICT veteran with a passion for open source. He has a solid experience in the telecommunication and information technology industry for more than 17 years. Throughout his career, he has built a number of large-scale, cross-country OSS/BSS platforms/systems and operation tools, most of them are still running in productions. He loves open source and has been contributing to a variety of open source projects, including Istio(Service</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://1amdonut.github.io/top/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://1amdonut.github.io/top/books/</guid>
+      <description>Machine learning学习笔记 Coursera 在线课程 Machine learning 笔记讲师: 吴恩达(Andrew Ng) 课程地址：https://www.coursera.org/lear</description>
+    </item>
+    
+    <item>
+      <title>Posts Archive</title>
+      <link>https://1amdonut.github.io/top/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://1amdonut.github.io/top/archive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
